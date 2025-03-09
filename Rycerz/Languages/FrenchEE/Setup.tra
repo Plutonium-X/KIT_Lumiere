@@ -1,0 +1,52 @@
+@0    = ~(nouvelle specialisation) Chevalier de la lumière~
+@1    = ~Chevalier de la lumière~
+@2    = ~CHEVALIER DE LA LUMIÈRE: est un paladin qui a consacré toute sa vie à un seul objectif : la destruction du mal. Son courage et sa bravoure le distinguent des autres membres de l'Ordre. Il se bat au nom du bien à tout prix et ne s'éloigne jamais d'un champ de bataille. Afin de mieux répondre à la vocation de sa vie, il a choisi une spécialisation étroite en matière d'armement et de style de combat ; il est meilleur à l'épée et au bouclier que beaucoup de guerriers. Un entraînement intensif a renforcé sa force, mais a aussi laissé des traces sur sa dextérité. La férocité avec laquelle il traite tous les maux a laissé une marque permanente sur son apparence. Sa droiture et son amour de Dieu confèrent au chevalier de la lumière expérimenté le don d'une immunité innée et la connaissance d'une Sorcellerie divine avancée.
+
+Avantages :
+- +1 en Force.
+- +2 à la Classe d'armure et aux jets de sauvegarde.
+- Peut atteindre la grande maîtrise avec les épées longues et les épées bâtardes.
+- Aux 7ème, 13ème, 18ème et 23ème niveaux, +1 aux jets d'attaque et de dégâts.
+- Au 10ème niveau, Immunité à la peur et aux échecs de moral. 
+- Au 15ème niveau, Protection permanente contre le mal.
+- Au 20ème niveau, +½ attaque supplémentaire par round.
+- Au 22ème niveau, +15% de résistance aux dégâts physiques.
+- Tous les 4 niveaux, +3% de résistance à l'acide et à la magie, jusqu’au maximum de 15% au 20ème niveau.
+- Au 28ème niveau, 25% de chances de dissiper la magie en touchant.
+- Aux 11ème, 16ème et 21ème niveaux, peut lancer Rayon de soleil en tant que capacité innée.
+
+Inconvénients :
+- Ne peut pas utiliser la capacité "Imposition des mains".
+- Ne peut pas lancer de sorts.
+- Ne peut dépenser des points de compétence que pour les épées longues, les épées bâtardes et le style de combat Épée et bouclier.
+- -20% de résistance au froid et à l'électricité.
+- -1 en Dextérité et Charisme.
+- Minimum de 18 points de force et 12 points d'intelligence.
+
+De plus, le chevalier de la lumière dispose d'une liste de capacités de haut niveau différente de celle du paladin normal. Les capacités suivantes sont à sa disposition : Tornade d'acier, Poing de fer, Poing d'acier, Coup critique, Résistance d'acier, Bouclier des Archontes, Sphère de lames, Aura de feu, Mise à mal, Orage vengeur, Convocation de Planétaire.~
+
+@3    = ~Aura de feu~
+@4    = ~Ce sort enveloppe le paladin d'une aura de flammes qui blesse ses adversaires et le protège de leurs coups. Non seulement ce bouclier de flammes octroie une résistance au feu de 90% et un bonus de +4 à la CA au paladin mais il le protège également de toutes les attaques provenant d'une distance maximale de 2 m autour de lui. Tout adversaire qui le frappe, que ce soit à l'aide d'une arme ou d'un sort, depuis l'intérieur de ce périmètre subit 2D10+2 points de dégâts du feu. De plus, l'intense chaleur l'immunise contre les dégâts des armes et missiles non magiques.~
+@5    = ~Convocation de Planétaire~
+@6    = ~Ce sort ouvre un portail dimensionnel et convoque un Planétaire qui combat aux côtés du paladin jusqu'à sa mort ou l'expiration du sort.~
+@7    = ~Bouclier des Archontes~
+@8    = ~Ce puissant sort d'abjuration absorbe les sorts dirigés contre le paladin. Il affecte un nombre total de niveaux de sorts égal à la moitié du niveau du paladin y compris ceux provenant de parchemins ou de compétences semblables aux sorts. Les sorts de zone stationnaires ou non-centrés sur le paladin, comme le Nuage puant ou le Nuage mortel par exemple, ne sont pas affectés. Le sort doit cibler spécifiquement le paladin pour qu'il soit dévié. Si on essaye d'absorber un sort au-delà de sa limite, le sort échouera et la déviation sera annulée. Pour finir, il est utile de noter que le Bouclier des Archontes protège contre les effets d'une dissipation magique.~
+@9    = ~Sphère de lames~
+@10   = ~Ce sort permet de faire apparaître un globe de métal muni de nombreuses lames aiguisées comme des rasoirs qui tournoie autour du paladin, le rendant intouchable. Toute créature essayant de traverser cette barrière de métal subit 10D10 points de dégâts. Les créatures dans la zone au moment de l'invocation peuvent tenter de réussir un jet de sauvegarde contre les sorts à -2 pour éviter les lames. La barrière reste en place pendant un tour.~
+@11   = ~Mise à mal ~
+@12   = ~Ce sort est l'inverse du sort Guérison. Au lieu de guérir la créature touchée, il lui inflige des dégâts. Le sort réduit la cible touchée à 1 point de vie. L'attaque suivante aura le même effet si elle est portée dans les deux rounds qui suivent la première ou le sort se dissipera de lui-même. Si le paladin manque la créature ciblée, le sort ne produira aucun effet. Aucun jet de sauvegarde n'est applicable pour éviter les dégâts ainsi causés.~
+@13   = ~Orage vengeur~
+@14   = ~Ce sort fait trembler la terre et les cieux : tous les ennemis du paladin sont frappés par de la pluie acide, des éclairs et des séismes.
+
+Les ennemis d'un niveau inférieur ou égal au 8ème niveau sont instantanément tués. Les autres sont frappés par une pluie acide empoisonnée et par des éclairs. L'orage dure 3 rounds, durant lesquels ils subissent, à chaque round, 1D6 points de dégâts d'électricité, 1D6 de feu et 1D6 d'acide (jet de sauvegarde contre les sorts pour la moitié). Ils sont également empoisonnés dès le premier round (jet de sauvegarde contre la mort).~
+@15   = ~Rayon de soleil~
+@16   = ~Rayon de soleil (Evocation, Altération)
+Niveau : 7
+Sphère : Soleil
+Portée : 6 mètres
+Durée : Instantanée
+Temps d'incantation : 4
+Zone d'effet : 6 mètres
+Jet de sauvegarde : Spécial
+
+Lorsque ce sort est lancé, un rayon de soleil descend sur le paladin et tout ce qui l'entoure dans un rayon de 6 mètres. Touts les ennemis se trouvant dans la zone d'effet subissent 3-18 points de dégâts et doivent réussir un jet de sauvegarde contre les sorts ou être aveuglées pour 10 rounds. Les morts-vivants touchés par le rayon du soleil subissent de 1 à 6 points de dégâts par niveau du paladin et doivent réussir un jet de sauvegarde contre les sorts ou être détruits.~

@@ -1,0 +1,50 @@
+@0    = ~(nowa podklasa) Rycerz œwiat³oœci~
+@1    = ~Rycerz Œwiat³oœci~
+@2    = ~RYCERZ ŒWIAT£OŒCI: to paladyn który ca³e swe ¿ycie poœwiêci³ w jednym celu- niszczenia z³a. Jego odwaga i mêstwo wyró¿niaj¹ go spoœród innych cz³onków zakonu. Walczy w imiê dobra za wszelk¹ cenê, nigdy nie ucieka z pola bitwy. W celu efektywniejszego realizowania swojego ¿yciowego powo³ania obra³ w¹sk¹ specjalizacjê w orê¿u oraz stylu walki; mieczem i tarcz¹ pos³uguje siê lepiej od niejednego wojownika. Intensywny trening wzmocni³ jego si³ê, jednak¿e pozostawi³ œlad na zrêcznoœci. Zaciêtoœæ z jak¹ traktuje wszelkie z³o wywar³a trwa³e piêtno na jego aparycji. Jego praworz¹dnoœæ i umi³owanie boga sprawia ¿e doœwiadczony Rycerz Œwiat³oœci otrzymuje dar wrodzonych odpornoœci oraz poznania zaawansowanych czarów kap³añskich. 
+
+Zalety:
+- Premia +1 do si³y
+- Premia +2 do KP i rzutów obronnych
+- Mo¿e osi¹gn¹æ wielkie mistrzostwo w mieczach d³ugich i pó³torarêcznych
+- Na poziomach 7,13, 18 i 23 otrzymuje +1 do TraK0 i obra¿eñ
+- Na 10 poziomie uzyskuje odpornoœæ na strach i za³amanie moralne 
+- Na 15 poziomie uzyskuje permanentn¹ ochronê przed z³em
+- Na 20 poziomie otrzymuje premiê 1/2 ataku na rundê
+- Na 22 poziomie otrzymuje premiê 15% odpornoœci na obra¿enia fizyczne
+- Co 4 poziomy otrzymuje 3% odpornoœci na kwas i magiê, a¿ do osi¹gniêcia 15% na 20 poziomie
+- Na 28 poziomie z ka¿dym trafieniem istnieje 25% szansy na rozproszenie magii celu
+- Na poziomach 11, 16 i 21 uzyskuje czar Promieñ S³oñca jako zdolnoœæ wrodzon¹
+
+Wady:
+- Nie mo¿e korzystaæ ze zdolnoœci "Nak³adanie r¹k"
+- Nie mo¿e rzucaæ czarów kap³añskich
+- Mo¿e przeznaczyæ punkty bieg³oœci tylko na miecze d³ugie, pó³torarêczne i styl walki mieczem i tarcz¹
+- Otrzymuje kary: -20% odpornoœci na zimno i elektrycznoœæ
+- Otrzymuje kary: -1 do zrêcznoœci i charyzmy
+- Minimum 18 si³y i 12 inteligencji
+
+Ponadto Rycerz Œwiat³oœci dysponuje odmienn¹ od zwyk³ego paladyna list¹ zdolnoœci wysokiego poziomu. Dysponuje umiejêtnoœciami: m³yniec, potê¿ny atak, uderzenie krytyczne, cios, wytrzyma³oœæ, tarcza archonów, kula ostrzy, aura p³omiennej œmierci, krzywdzenie, burza zemsty, przywo³anie planetara. ~
+@3    = ~Aura P³omiennej Œmierci~
+@4    = ~Ten czar powoduje, ¿e wokó³ kap³ana pojawia siê aura intensywnych p³omieni, które zadaj¹ obra¿enia wrogom, a tak¿e chroni¹ przed obra¿eniami z zewn¹trz. Tarcza ta nie tylko zapewnia czaruj¹cemu 90% odpornoœci na ogieñ i dodaje premiê -4 punkty do Klasy Pancerza, ale te¿ ochrania go przed atakami wykonanymi z odleg³oœci 1,5 metra wokó³ niego. Przeciwnik znajduj¹cy siê na tym obszarze, który trafi postaæ chronion¹ aur¹ p³omiennej œmierci za pomoc¹ broni lub czarów, sam otrzyma 2k10 +2 obra¿eñ od ognia. Poza tym, intensywne gor¹co chroni czaruj¹cego przed wszystkimi broniami niemagicznymi, zarówno w starciu bezpoœrednim, jak i przed pociskami.~
+@5    = ~Przyzwanie planetara~
+@6    = ~Zaklêcie to powoduje otworzenie bram nieba i przywo³anie planetara, który bêdzie walczyæ przy boku rzucaj¹cego czar, do czasu a¿ zaklêcie wygaœnie lub jego ziemskie wcielenie zostanie zabite.~
+@7    = ~Tarcza Archonów~
+@8    = ~Ten potê¿ny czar sprawia, ¿e zaklêcia rzucone przeciw kap³anowi zostaj¹ wch³oniête i zabsorbowane przez tarczê. Dotyczy do czarów o ³¹cznej sumie poziomów równej po³owie poziomu kap³ana, w tym czarów rzucanych za pomoc¹ zwojów i wrodzonych zdolnoœci paramagicznych. Nie dotyczy to nastêpuj¹cych przypadków: gdy obszar dzia³ania czaru nie jest skupiony na magu oraz gdy obszar dzia³ania jest nieruchomy (np. Zabójcza chmura lub Œmierdz¹ca chmura). Jeœli czar rzucony jest bezpoœrednio na kap³ana, zostanie on wch³oniêty. Przyk³adowo, pozosta³ tylko 1 poziom, a na kap³ana zostaje rzucone zaklêcie 3 poziomu - zostanie ono wch³oniête, jednoczeœnie anuluj¹c dzia³anie tarczy. Tarcza Archonów dzia³a te¿ na rozproszenie magii.~
+@9    = ~Kula Ostrzy~
+@10   = ~Rzucaj¹c to zaklêcie, kap³an tworzy kulê ostrych jak brzytwa ostrzy, które wiruj¹ wokó³ niego i tworz¹ w ten sposób barierê nie do pokonania. Ka¿da istota, która spróbuje siê przez tê zaporê przedostaæ, otrzyma 10k10 punktów obra¿eñ. Przeciwnicy znajduj¹cy siê w zasiêgu bariery w czasie jej tworzenia mog¹ wykonaæ rzut obronny przeciwko czarom z modyfikatorem -2. Jeœli ten rzut siê powiedzie, to uda siê im unikn¹æ ostrzy i nie odnios¹ ¿adnych obra¿eñ. Kula ostrzy chroni kap³ana przez 10 rund.~
+@11   = ~Krzywdzenie~
+@12   = ~Jest to odwrotnoœæ zaklêcia Uzdrowienie. Zamiast leczyæ dotkniêt¹ istotê - zadaje obra¿enia. Istocie dotkniêtej przez kap³ana zostanie tylko 1 punkt ¿ycia. Aby czar zadzia³a³, nale¿y po jego rzuceniu wykonaæ udany atak wrêcz. Kap³an ma tylko 2 rundy na wykonanie ataku; po tym czasie czar wygasa. Poza tym, jeœli kap³an nie trafi danej istoty, czar zostaje zmarnowany. Przed czarem nie chroni ¿aden rzut obronny.~
+@13   = ~Burza Zemsty~
+@14   = ~Po rzuceniu tego zaklêcia ziemia zaczyna siê trz¹œæ, a w niebiosach zaczyna siê gotowaæ od krwi i energii. Wszyscy wrogowie rzucaj¹cego zostaj¹ pora¿eni deszczem kwasu, trzêsieniami ziemi i b³yskawicami.
+Wszyscy nieprzyjaciele, do 8 poziomu w³¹cznie, zostaj¹ natychmiast zabici. Ci, którym uda³o siê prze¿yæ, zostaj¹ pora¿eni deszczem truj¹cego kwasu i b³yskawicami. Burza trwa 3 rundy. W czasie trwania ka¿dej rundy ofiary odnosz¹ 1k6 obra¿eñ od elektrycznoœci, 1k6 obra¿eñ od ognia i 1k6 obra¿eñ od kwasu (udany rzut obronny zmniejsza obra¿enia o po³owê). W czasie trwania pierwszej tury istnieje te¿ prawdopodobieñstwo, ¿e ofiary zostan¹ zatrute (rzut obronny przeciw œmierci).~
+@15   = ~Promieñ S³oñca~
+@16   = ~Promieñ s³oñca (Przemiany, Wywo³ywanie)
+Poziom: 7
+Sfera: S³oñce
+Zasiêg: 7 metrów
+Czas dzia³ania: natychmiastowy
+Czas rzucania: 4
+Obszar dzia³ania: 7 metrów
+Rzut obronny: specjalny
+
+Czar ten umo¿liwia rzucaj¹cemu przywo³anie snopu oœlepiaj¹cego, s³onecznego œwiat³a. Wszystkie istoty znajduj¹ce siê w obszarze dzia³ania otrzymuj¹ 3-18 punktów obra¿eñ i musz¹ wykonaæ rzut obronny przeciw czarom lub zostan¹ oœlepione na 10 rund. Istoty nieumar³e, bezpoœrednio dotkniête przez promieñ, otrzymuj¹ 1-6 punktów obra¿eñ za ka¿dy poziom rzucaj¹cego i musz¹ wykonaæ udany rzut obronny przeciw czarom, lub zostan¹ zniszczone.~

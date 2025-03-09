@@ -1,0 +1,6 @@
+v1.03
+
+- Compatibilité pour les jeux EE
+- Trayification
+- Traduction française
+- Prêt pour le niveau 50
